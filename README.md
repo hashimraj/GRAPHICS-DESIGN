@@ -16,7 +16,7 @@ Creative graphic design projects created using Adobe Photoshop, Canva, and CapCu
 
 <p align="center">
   <img src="sample%20designs/wakulima03.png" width="300"/>
-  <img src="sample%20designs/babs%for%mp.jpeg" width="300"/>
+  <img src="sample%20designs/babs%for%mp.png" width="300"/>
 </p>
 
 ## 🛠️ Tools Used
