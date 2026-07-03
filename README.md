@@ -34,6 +34,11 @@ Creative graphic design projects created using Adobe Photoshop, Canva, and CapCu
   <img src="sample%20designs/babs%20for%20mp.png" width="300"/>
 </p>
 
+<p align="center">
+  <img src="sample%20designs/koko%20nations%20group-of-companies.pdf.png" width="300"/>
+  <img src="sample%20designs/today's%20menu%20fri.jpg" width="300"/>
+</p>
+
 ## 🛠️ Tools Used
 - Adobe Photoshop
 - Canva
